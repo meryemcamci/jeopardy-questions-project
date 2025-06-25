@@ -8,7 +8,6 @@ It serves as a practical example of **data wrangling** techniques applied to rea
 The goal is to answer questions such as:
 - What are the most common question topics in Jeopardy?
 - Is there a relationship between the difficulty of a question and its monetary value?
-- Do questions become harder over time?
 - Are certain categories more frequently featured in higher-value questions?
 
 ---
@@ -52,7 +51,6 @@ File formats included:
 - **Python**
 - **Pandas**
 - **NumPy**
-- **Matplotlib / Seaborn**
 - **Jupyter Notebook**
 
 ---
